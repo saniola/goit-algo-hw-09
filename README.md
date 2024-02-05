@@ -1,4 +1,4 @@
-## Conclusion
+## Comparison of Greedy and Dynamic Programming Algorithms
 
 In the comparison between the greedy algorithm (`find_coins_greedy`) and the dynamic programming algorithm (`find_min_coins`) for finding the minimum number of coins for a given sum, the following conclusions can be drawn:
 
