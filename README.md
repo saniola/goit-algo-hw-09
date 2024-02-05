@@ -9,5 +9,3 @@ In the comparison between the greedy algorithm (`find_coins_greedy`) and the dyn
 - When comparing the time taken for 10,000 repeats, it becomes clear that dynamic programming (`find_min_coins`) is significantly slower than the greedy algorithm (`find_coins_greedy`) for the given example. This is due to the nature of dynamic programming, which involves more calculations and memory usage.
 
 - The choice between these two algorithms depends on the specific task and data volume. The greedy algorithm is suitable for quickly solving simple tasks, while dynamic programming is used for accurate and optimal solutions to more complex tasks, especially when dealing with large datasets.
-
-These updated findings reflect the observed performance difference when running both algorithms with a larger number of repeats.
